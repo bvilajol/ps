@@ -14,3 +14,10 @@ Validate the image has been created
 
 # Terraform deployment
 
+Init terraform
+
+    terraform init
+
+Deploy
+
+    terraform apply
